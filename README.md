@@ -14,4 +14,4 @@ Here are the assignments that I have completed during the course of this class.
 
 To view the case prompt, associated data files, Python code and reported solutions, please click on the folder hyperlinks below.
 
-### 1. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Integrated%20Manufacturing%20and%20Inventory%20Planning) 
+1. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Integrated%20Manufacturing%20and%20Inventory%20Planning) 
