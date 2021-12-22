@@ -20,4 +20,4 @@ II. [Emergency Response using Integer Optimization](https://github.com/mhmirza/O
 
 III. [Traveling Salesman Problem using Integer Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20III)
 
-IV. [World Health Organization's Nutrition Policy](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20IV)
+IV. [World Health Organization's Nutrition Policy using Multi-Objective Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20IV)
