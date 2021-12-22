@@ -23,3 +23,5 @@ III. [Traveling Salesman Problem using Integer Optimization](https://github.com/
 IV. [World Health Organization's Nutrition Policy using Multi-Objective Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20IV)
 
 V. [Aircraft Configuration using Stochastic Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20V)
+
+## Final Project
