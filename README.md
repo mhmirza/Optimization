@@ -25,3 +25,5 @@ IV. [World Health Organization's Nutrition Policy using Multi-Objective Optimiza
 V. [Aircraft Configuration using Stochastic Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20V)
 
 ## Final Project
+
+To prepare for large public health emergencies, the Allegheny County is prioritizing the list of Points of Dispense (PODs) to open, which are used to distribute essential supplies and medicines to the public during such emergencies. Your goal for this project is to formulate a facility location model, and optimally select a list of PODs from the candidate sites. You need to compare two different formulations: minimizing the total/weighted travel distance of the population, and minimizing the maximum travel distance for anyone.
