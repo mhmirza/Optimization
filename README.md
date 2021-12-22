@@ -4,7 +4,7 @@ This portfolio captures the work I completed for a course, **Decision Analytics 
 
 # What I hope to learn?
 
-From the course, Decision Analytics for Business & Policy, I wish to learn how to design end-to-end decision analytics pipelines, by: identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools; translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output; translating these mathematical formulations into code using Python; applying findings back to the decision problem context in business and policy through written and verbal communication.
+From the course, Decision Analytics for Business & Policy, I wish to learn how to design end-to-end decision analytics pipelines, by: identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools; translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output; translating these mathematical formulations into code using [Gurobi](https://www.gurobi.com/) in Python; applying findings back to the decision problem context in business and policy through written and verbal communication.
 
 # Portfolio
 
@@ -12,6 +12,6 @@ Here are the assignments that I have completed during the course of this class.
 
 ## Case Studies
 
-To view the case prompt, associated data files, Python code and reported solutions, please click on the [folder](). 
+To view the case prompt, associated data files, Python code and reported solutions, please click on the folder hyperlinks below.
 
-### 1. Integrated Manufacturing and Inventory Planning
+### 1. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Integrated%20Manufacturing%20and%20Inventory%20Planning) 
