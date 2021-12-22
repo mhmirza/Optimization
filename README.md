@@ -19,3 +19,5 @@ To view the case prompt, associated data files, Python code and reported solutio
 2. [Emergency Response](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20II)
 
 3. [Traveling Salesman Problem](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20III)
+
+4. [World Health Organization's Nutrition Policy]
