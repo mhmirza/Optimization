@@ -5,7 +5,7 @@ This portfolio captures the work I completed for a course, **Decision Analytics 
 The work done here involves advanced methods of decision-making: deterministic optimization (large-scale), stochastic/robust optimization, and sequential decision-making. Different case problems from a variety of real-world settings have been solved here, along with a final project. Links for each of these components have been provided below. To view my GitHub repository, please click [here](https://github.com/mhmirza/Optimization).
 
 # What I hope to learn?
-From the course, Decision Analytics for Business and Policy, I wish to learn how to design end-to-end decision analytics pipelines, by:
+From the course, Decision Analytics for Business & Policy, I wish to learn how to design end-to-end decision analytics pipelines, by:
 
 1. Identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools.
 2. Translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output.
