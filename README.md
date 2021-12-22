@@ -16,7 +16,7 @@ To view the case prompt, associated data files, Python code and reported solutio
 
 I. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20I) 
 
-II. [Emergency Response](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20II)
+II. [Emergency Response using Integer Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20II)
 
 III. [Traveling Salesman Problem](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20III)
 
