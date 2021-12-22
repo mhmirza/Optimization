@@ -1,6 +1,6 @@
 # Optimization
 
-This portfolio captures the work I completed for a course, Decision Analytics for Business & Policy, at Carnegie Mellon University in Fall 2021. It demonstrates the use of modeling frameworks and computational tools to address complex, ill-defined and large-scale decision-making problems that arise in policy and business. 
+This portfolio captures the work I completed for a course, **Decision Analytics for Business & Policy**, at Carnegie Mellon University in Fall 2021. It demonstrates the use of modeling frameworks and computational tools to address complex, ill-defined and large-scale decision-making problems that arise in policy and business. 
 
 The work done here involves advanced methods of decision-making: deterministic optimization (large-scale), stochastic/robust optimization, and sequential decision-making. Different case problems from a variety of real-world settings have been solved here, along with a final project. Links for each of these components have been provided below. To view my GitHub repository, please click [here](https://github.com/mhmirza/Optimization).
 
