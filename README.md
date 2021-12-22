@@ -14,10 +14,10 @@ Here are the assignments that I have completed during the course of this class.
 
 To view the case prompt, associated data files, Python code and reported solutions, please click on the folder hyperlinks below.
 
-1. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20I) 
+I. [Integrated Manufacturing & Inventory Planning using Linear Optimization](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20I) 
 
-2. [Emergency Response](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20II)
+II. [Emergency Response](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20II)
 
-3. [Traveling Salesman Problem](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20III)
+III. [Traveling Salesman Problem](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20III)
 
-4. [World Health Organization's Nutrition Policy]
+IV. [World Health Organization's Nutrition Policy](https://github.com/mhmirza/Optimization/tree/main/Case%20Study%20IV)
