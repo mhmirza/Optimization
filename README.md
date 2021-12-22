@@ -8,7 +8,7 @@ From the course, Decision Analytics for Business & Policy, I wish to learn how t
 
 # Portfolio
 
-Here are the assignments that I have completed during the course of this class.
+Here are the case studies and final project that I completed during the course of this class.
 
 ## Case Studies
 
@@ -26,4 +26,4 @@ V. [Aircraft Configuration using Stochastic Optimization](https://github.com/mhm
 
 ## Final Project
 
-To prepare for large public health emergencies, the Allegheny County is prioritizing the list of Points of Dispense (PODs) to open, which are used to distribute essential supplies and medicines to the public during such emergencies. Your goal for this project is to formulate a facility location model, and optimally select a list of PODs from the candidate sites. You need to compare two different formulations: minimizing the total/weighted travel distance of the population, and minimizing the maximum travel distance for anyone.
+To prepare for large public health emergencies, the Allegheny County is prioritizing the list of Points of Dispense (PODs) to open, which are used to distribute essential supplies and medicines to the public during such emergencies. Your goal for this project is to formulate a facility location model, and optimally select a list of PODs from the candidate sites. You need to compare two different formulations: minimizing the total/weighted travel distance of the population, and minimizing the maximum travel distance for anyone.
