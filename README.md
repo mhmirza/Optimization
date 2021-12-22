@@ -30,7 +30,7 @@ V. [Aircraft Configuration using Stochastic Optimization](https://github.com/mhm
 
 Please click on the hyperlinks below to view the project details:
 
-1. [Project Prompt](https://github.com/mhmirza/Optimization/blob/main/Final%20Project/Final%20Project%20Prompt.pdf)
-2. [Project Report & Mathematical Formulation](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Mathematical%20Formulation%20%26%20Report)
-4. [Python Code](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Code)
-5. [Data Files](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Data)
+* [Project Prompt](https://github.com/mhmirza/Optimization/blob/main/Final%20Project/Final%20Project%20Prompt.pdf)
+* [Project Report & Mathematical Formulation](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Mathematical%20Formulation%20%26%20Report)
+* [Python Code](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Code)
+* [Data Files](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Data)
