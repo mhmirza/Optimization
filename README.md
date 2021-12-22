@@ -27,3 +27,10 @@ V. [Aircraft Configuration using Stochastic Optimization](https://github.com/mhm
 ## Final Project
 
 **Brief Description:** "To prepare for large public health emergencies, the Allegheny County is prioritizing the list of Points of Dispense (PODs) to open, which are used to distribute essential supplies and medicines to the public during such emergencies. Your goal for this project is to formulate a facility location model, and optimally select a list of PODs from the candidate sites. You need to compare two different formulations: minimizing the total/weighted travel distance of the population, and minimizing the maximum travel distance for anyone."
+
+Please click on the hyperlinks below to view the project details:
+
+1. [Project Prompt](https://github.com/mhmirza/Optimization/blob/main/Final%20Project/Final%20Project%20Prompt.pdf)
+2. [Project Report & Mathematical Formulation](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Mathematical%20Formulation%20%26%20Report)
+4. [Python Code](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Code)
+5. [Data Files](https://github.com/mhmirza/Optimization/tree/main/Final%20Project/Data)
