@@ -4,9 +4,9 @@
 
 This portfolio captures the work I completed for a course, **Decision Analytics for Business & Policy**, at Carnegie Mellon University in Fall 2021. It demonstrates the use of modeling frameworks and computational tools to address complex, ill-defined and large-scale decision-making problems that arise in policy and business. The work done here involves advanced methods of decision-making: deterministic optimization (large-scale), stochastic/robust optimization, and sequential decision-making. Different case problems from a variety of real-world settings have been solved here, along with a final project. Links for each of these components have been provided below. To view my course repository on GitHub, please click [here](https://github.com/mhmirza/Optimization).
 
-# What I hope to learn?
+# Key Learnings
 
-From the course, Decision Analytics for Business & Policy, I wish to learn how to design end-to-end decision analytics pipelines, by: identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools; translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output; translating these mathematical formulations into code using [Gurobi](https://www.gurobi.com/) in Python; applying findings back to the decision problem context in business and policy through written and verbal communication.
+From the course, Decision Analytics for Business & Policy, I learnt how to design end-to-end decision analytics pipelines by: identifying components of decision problems that are (not) susceptible to analytical modeling, and selecting the appropriate tools; translating decision problems to logical, mathematical formulations, and clearly identifying the objectives, decision variables, constraints, input/output; translating these mathematical formulations into code using [Gurobi](https://www.gurobi.com/) in Python; applying findings back to the decision problem context in business and policy through written and verbal communication.
 
 # Portfolio
 
